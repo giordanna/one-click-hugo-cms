@@ -1,48 +1,35 @@
 ---
-title: Our Coffee
-type: products
+title: Portfólio
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Potfólio
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Esta página serve para mostrar algumas das coisas que posso oferecer como
+  trabalho.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Aplicações Web: tanto estáticos quanto dinâmicos, possuo experiência
+        nesta área há mais de 3 anos. Ferramentas preferidas: PHP, Laravel,
+        MySQL, Bootstrap, WordPress, D3.js, jQuery.
     - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        Ebooks: comecei criando apenas capas para ebooks em 2014, e hoje já tive
+        experiência de criar e diagramar livros inteiros, alguns sendo
+        impressos, outros digitais, e uns interativos.
     - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        Logos: juntamente com a criação de ebooks, também tive experiência de
+        criar logomarcas para diversos clientes.
     - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+      text: >-
+        Outros: também gosto de investir em projetos pessoais, aprender coisas
+        novas e desenvolver meus hobbies. Entre estes estão: desenvolvimento de
+        jogos, modelagem 3D e arte gráfica.
+  heading: O que faço
+  description: >-
+    Esta página serve para mostrar algumas das coisas que posso oferecer como
+    trabalho.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -59,44 +46,47 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+testimonials: []
+full_image: /img/1471844488340.png
 pricing:
-  heading: Monthly subscriptions
+  heading: Freelancer
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Abaixo você tem a relação de preços que normalmente utilizo de base para
+    cobrar pelos meus serviços. Preços podem variar de acordo com a
+    especificação do projeto. Contate-me para obter mais detalhes e informações
+    de pagamento.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Para quem quer um gerenciador de conteúdo em seu site
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - WordPress ou Joomla
+        - Instalação de tema
+        - Instalação de plugins
+        - Ajuste de conteúdo
+      plan: Instalação de CMS
+      price: 20/h
+    - description: Para quem deseja uma logomarca
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Logo vetorizada
+        - Diversos formatos
+        - Manual de uso da marca
+      plan: Design de logomarca
+      price: 15/h
+    - description: Quer que desenvolva eu um projeto web? Beleza!
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Conteúdo dinâmico
+        - Banco de dados
+        - Documentação
+        - Diagramas
+        - Testes unitários
+      plan: Desenvolver Aplicação Web
+      price: 30/h
+    - description: Quer algum serviço que não está listado? Pode falar!
+      items:
+        - Criar alguma artwork?
+        - Diagramar algum livro?
+        - Desenvolver algum jogo?
+        - Outra coisa? Pode falar pelo contato!
+      plan: Outros serviços customizados
+      price: '?/h'
 ---
-
 
