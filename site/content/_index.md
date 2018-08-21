@@ -1,7 +1,7 @@
 ---
 title: Giordanna De Gregoriis
 subtitle: Desenvolvedora Full-Stack
-image: /img/1471844488340.png
+image: /img/portfolio_home.jpg
 blurb:
   heading: Introdução
   text: >-
@@ -24,7 +24,7 @@ products:
 values:
   heading: Portfólio
   text: >-
-    Veja o portfólio completo de websites, capas de ebook, logomarcas,
+    Alguns sites, snippets, capas de ebook, logomarcas,
     ilustrações, etc.
 ---
 
