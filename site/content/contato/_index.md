@@ -9,7 +9,7 @@ contact_entries:
   - heading: Horas disponíveis para contato
     text: 'De Segunda a Sexta: 9:00 – 19:00'
 ---
-Adoraria entrar em contato e ouvir suas ideias e perguntas. Estou sempre em busca de melhorar constantemente e crescer, e seu _feedback _é muito importante.
+Adoraria entrar em contato e ouvir suas ideias e perguntas. Estou sempre em busca de melhorar constantemente e crescer, e seu _feedback_ é muito importante.
 
 Também estou aberta para trabalhar como _freelancer_, prometo que darei o meu melhor para desenvolver uma aplicação de qualidade.
 

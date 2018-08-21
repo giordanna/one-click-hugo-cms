@@ -1,7 +1,7 @@
 ---
 title: Serviços
 image: /img/products-jumbotron.jpg
-heading: Potfólio
+heading: Serviços
 description: >-
   Esta página serve para mostrar algumas das coisas que posso oferecer como
   trabalho.
@@ -63,14 +63,14 @@ pricing:
         - Instalação de plugins
         - Ajuste de conteúdo
       plan: Instalação de CMS
-      price: 20/h
+      price: 20
     - description: Para quem deseja uma logomarca
       items:
         - Logo vetorizada
         - Diversos formatos
         - Manual de uso da marca
       plan: Design de logomarca
-      price: 15/h
+      price: 15
     - description: Quer que desenvolva eu um projeto web? Beleza!
       items:
         - Conteúdo dinâmico
@@ -79,14 +79,14 @@ pricing:
         - Diagramas
         - Testes unitários
       plan: Desenvolver Aplicação Web
-      price: 30/h
+      price: 30
     - description: Quer algum serviço que não está listado? Pode falar!
       items:
         - Criar alguma artwork?
         - Diagramar algum livro?
         - Desenvolver algum jogo?
         - Outra coisa? Pode falar pelo contato!
-      plan: Outros serviços customizados
-      price: '?/h'
+      plan: Outros tipos de serviços
+      price: '?'
 ---
 
