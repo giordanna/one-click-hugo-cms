@@ -1,6 +1,6 @@
 ---
 title: Portfólio
-image: /img/portfolio_home.jpg
+image: /img/about-single-origin.jpg
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg

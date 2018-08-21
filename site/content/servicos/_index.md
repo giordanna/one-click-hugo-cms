@@ -1,6 +1,6 @@
 ---
 title: Serviços
-image: /img/1471844488340.png
+image: /img/about-shade-grown.jpg
 heading: Serviços
 description: >-
   Esta página serve para mostrar algumas das coisas que posso oferecer como
