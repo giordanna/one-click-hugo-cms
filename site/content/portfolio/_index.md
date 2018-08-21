@@ -1,6 +1,6 @@
 ---
 title: Portfólio
-image: /img/about-jumbotron.jpg
+image: /img/portfolio_home.jpg
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
