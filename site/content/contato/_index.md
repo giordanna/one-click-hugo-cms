@@ -5,7 +5,7 @@ contact_entries:
   - heading: WhatsApp e Email
     text: |-
       +55 (91) 98898-6521
-      gior.grs@gmail.com
+      contato@gior.me
   - heading: Horas disponíveis para contato
     text: 'De Segunda a Sexta: 9:00 – 19:00'
 ---
