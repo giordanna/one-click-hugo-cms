@@ -16,9 +16,15 @@ intro:
     PHP, Laravel, MySQL, Javascript e frameworks para criação frontend como
     Bootstrap, compedium Laker, jQuery, entre outros. Também desenvolvo
     aplicações desktop, com experiência em Java, python e C++.
-products: []
+products:
+  - image: /img/illustrations-coffee-gear.svg
+    text: Mais de 3 anos de experiência em desenvolvimento full-stack.
+  - image: /img/illustrations-coffee.svg
+    text: Mais de 4 anos de experiência em design gráfico.
 values:
-  heading: ''
-  text: ''
+  heading: Portfólio
+  text: >-
+    Veja o portfólio completo de websites, capas de ebook, logomarcas,
+    ilustrações, etc.
 ---
 
