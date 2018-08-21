@@ -2,7 +2,10 @@
 <div class="mb4" id="formulario">
   <h4 class="f3 b lh-title mb3 tc">Fale comigo!</h4>
 
-  <form id="gform" method="POST" onsubmit="envio();" action="https://script.google.com/macros/s/AKfycbyc0u5vgD_YQfgE4luR_NxVsstrxDhbX5J5x3hA9v-2l-y8U5M/exec" return false;>
+  <form name='contato' method='POST' netlify-honeypot="bot-field" netlify>
+    <p class="hidden">
+      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+    </p>
     <div class="flex-l mhn1-l">
           <!-- Name -->
       <div class="ph1-l w-50-l">
@@ -25,6 +28,7 @@
       <textarea name="name" placeholder="Sua mensagem" rows="8" cols="80" id="mensagem" class="w-100"></textarea>
       <label for="message">Sua mensagem</label>
     </fieldset>
+    <div data-netlify-recaptcha></div>
         <!-- Button -->
     <div class="tc">
       <button type="submit" value="Enviar" class="btn w-100 w-auto-ns raise">Enviar</button>
@@ -32,22 +36,4 @@
   </form>
 </div>
 
-<div style="display:none;" class="mb4" id="obrigada">
-  <h4 class="f3 b lh-title mb3 tc">Sua mensagem foi enviada! Obrigada!</h4>
-</div>
-
-<script data-cfasync="false" type="text/javascript"
-src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js">
-
-</script>
-
-<script type="text/javascript">
-  function envio() {
-    
-    var div1 = document.getElementById("formulario");
-    div1.style.display = 'none';
-    
-    var div2 = document.getElementById("obrigada");
-    div2.style.display = '';
-   }
 </script>

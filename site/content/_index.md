@@ -17,9 +17,9 @@ intro:
     Bootstrap, compedium Laker, jQuery, entre outros. Também desenvolvo
     aplicações desktop, com experiência em Java, python e C++.
 products:
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/icones-site-01.png
     text: Mais de 3 anos de experiência em desenvolvimento full-stack.
-  - image: /img/illustrations-coffee.svg
+  - image: /img/icones-site-02.png
     text: Mais de 4 anos de experiência em design gráfico.
 values:
   heading: Portfólio

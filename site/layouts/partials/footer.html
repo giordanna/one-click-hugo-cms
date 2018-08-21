@@ -4,7 +4,7 @@
 
 		<div class="measure-narrow center mb4">
 
-			<p class="f3 lh-title primary center b tc mb2">Giordanna De Gregoriis</p>
+			<p class="f3 lh-title primary b tc mb2">gior.me</p>
 			<!-- <p><span class="b">Inscreva-se no newsletter!</span> Fique por dentro de novas postagens e de novos trabalhos no meu portfólio. (:</p>
 
 			{{ partial "newsletter-form" . }} -->
@@ -42,6 +42,10 @@
 			</div>
 
 		</div>
+
+		<div class="measure-narrow center">
+			<p class="tc" style="font-size: 12pt" id="footer-data-recente">2018 &copy; Giordanna De Gregoriis</p>
+		</div>
 	</div>
 
 </footer>
@@ -49,6 +53,12 @@
 {{ partial "svg" . }}
 
 <script src="/app.js"></script>
+
+<script type="text/javascript">
+	var d = new Date();
+	var n = d.getFullYear();
+	document.getElementById("footer-data-recente").innerHTML = n + " © Giordanna De Gregoriis";
+</script>
 
 </body>
 
