@@ -8,6 +8,7 @@ blurb:
     Desenvolvo aplicações web tanto dinâmicas (PHP, MySQL) quanto estáticas
     (HTML5, CSS3, JavaScript). Além disso, faço ilustrações, capas para ebooks,
     e diagramação de livros (impresso, digital e interativo).
+
 intro:
   heading: Resumo profissional
   text: >-
