@@ -7,6 +7,18 @@
   <div class="ph3-m w-50-m">
     <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
     <p>{{.text}}</p>
+    <strong>Tecnologias usadas:</strong>
+    <ul>
+        {{ range $element := .tecnologies }}
+            <li>{{ $element }}</li>
+        {{ end }}
+    </ul>
+    <br>
+    {{ range $element := .links }}
+        <a href="{{$element.sourceUrl}}" target="_blank" rel="noopener noreferrer" class="btn raise">
+            {{$element.source}}
+        </a>
+    {{ end }}
   </div>
 
 </div>

@@ -1,22 +1,17 @@
 ---
 title: Giordanna De Gregoriis
-subtitle: Desenvolvedora Full-Stack
+subtitle: Desenvolvedora Web Full-Stack
 image: /img/portfolio_home.jpg
 blurb:
   heading: Introdução
   text: >-
-    Desenvolvo aplicações web tanto dinâmicas (PHP, MySQL) quanto estáticas
-    (HTML5, CSS3, JavaScript). Além disso, faço ilustrações, capas para ebooks,
-    e diagramação de livros (impresso, digital e interativo).
+    Sou desenvolvedora Web Full-Stack, formada em Ciência da Computação pela Universidade Federal do Pará, e sou apaixonada pela educação. Trabalhei em instituições de educação a distância, o que me possibilitou perceber que as tecnologias podem e devem ser aliadas da educação. Desenvolvi projetos com python, PHP, MySQL, Angular e React.js.
 
 intro:
   heading: Resumo profissional
   text: >-
     Formada no curso de Ciência da Computação pela Universidade Federal do Pará
-    em 2017, possuo experiência com desenvolvimento de aplicações web utilizando
-    PHP, Laravel, MySQL, Javascript e frameworks para criação frontend como
-    Bootstrap, compedium Laker, jQuery, entre outros. Também desenvolvo
-    aplicações desktop, com experiência em Java, python e C++.
+    em 2017, possuo experiência com desenvolvimento de aplicações web com Flask, Laravel, React.js e Angular 7.
 products:
   - image: /img/icones-site-01.png
     text: Mais de 3 anos de experiência em desenvolvimento full-stack.
