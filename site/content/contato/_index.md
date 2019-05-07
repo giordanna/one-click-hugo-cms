@@ -4,7 +4,7 @@ logo: /img/site.png
 contact_entries:
   - heading: WhatsApp e Email
     text: |-
-      +55 (91) 98898-6521
+      +55 (15) 98840-6521
       contato@gior.me
   - heading: Horas disponíveis para contato
     text: 'De Segunda a Sexta: 9:00 – 19:00'
